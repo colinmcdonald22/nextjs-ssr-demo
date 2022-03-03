@@ -6,7 +6,7 @@ This application demonstrates Server-side Rendering (SSR) using Next.js.
 ![Screen Shot](assets/screen-shot.png)
 
 CSR (client-side rendering) Build
----------------------------------
+--------------------------------
 ```bash
 $ yarn
 $ yarn dev
